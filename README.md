@@ -77,12 +77,12 @@ The outcome is delayed diagnosis, lack of professional intervention, and missed 
 **Able Assistant App**:
 
 * A mobile-first solution that makes hearing health universally accessible.
-* Provides instant, at-home screenings and generates WHO-compliant reports in under three minutes.
+* Provides instant, at-home screenings and generates WHO-Grade reports in under three minutes.
 * Equipped with an AI-driven Virtual Audiologist that breaks language barriers and provides reliable guidance.
-* Directly connects users to thousands of certified audiologists across India, ensuring continuity of care.
-* Enables mass screenings at events like Simhastha, identifying at-risk individuals at scale, delivering immediate awareness, and guiding them toward treatment or fitting with Able Glasses.
+* Directly connects users to 6000+ RCI certified audiologists across India, ensuring professional hearing care.
+* Enables mass screenings at events like Simhastha, identifying at-risk individuals at scale, delivering immediate awareness, and guiding them toward treatment or fitting with Able Glasses as future scope.
 
-**The integrated vision**: The Able ecosystem completes the hearing health loop — **early awareness → rapid screening → expert consultation → intervention via Able Glasses → long-term support.** This holistic model tackles not just the medical need, but also the cultural and systemic barriers that have left millions underserved.
+**The integrated vision**: Our ecosystem completes the hearing health loop — **early awareness → rapid screening → expert consultation → intervention via Able Glasses → long-term support.** 
 
 ---
 
